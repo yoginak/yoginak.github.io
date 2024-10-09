@@ -5,6 +5,7 @@ import mock03 from "../assets/images/BrainFlix.png";
 import mock04 from "../assets/images/Instock.png";
 import mock05 from "../assets/images/Bandsite.png";
 import mock06 from "../assets/images/coffeeshop.png";
+import mock07 from "../assets/images/Blog-Application.png";
 import "../assets/styles/Project.scss";
 
 function Project() {
@@ -89,6 +90,17 @@ function Project() {
             visual responsiveness. Complete with dynamic data being pulled from
             an Express API hosted on Heroku with the added ability to be able to
             post, like and delete a comment.
+          </p>
+        </div>
+        <div className="project">
+          {/* <a href="" target="_blank" rel="noreferrer"> */}
+            <img src={mock07} className="zoom" alt="thumbnail" width="100%" />
+          {/* </a> */}
+          {/* <a href="" target="_blank" rel="noreferrer"> */}
+            <h2>Blogs Application</h2>
+         {/* </a> */}
+          <p>
+          It is a responsive Single Page Application developed using React, designed to display my various projects and demos. Built as a personal initiative, it aims to highlight my journey as a developer.
           </p>
         </div>
         <div className="project">
