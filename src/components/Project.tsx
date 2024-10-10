@@ -1,6 +1,6 @@
 import React from "react";
 import mock01 from "../assets/images/Reflectify.png";
-import mock02 from "../assets/images/Recipe Spark.png";
+import mock02 from "../assets/images/Recipe-project.png";
 import mock03 from "../assets/images/BrainFlix.png";
 import mock04 from "../assets/images/Instock.png";
 import mock05 from "../assets/images/Bandsite.png";
@@ -14,10 +14,18 @@ function Project() {
       <h1>Personal Projects</h1>
       <div className="projects-grid">
         <div className="project">
-          <a href="https://yoginak.github.io/Blogs/#/project/reflectify/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/reflectify/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={mock01} className="zoom" alt="thumbnail" width="100%" />
           </a>
-          <a href="https://yoginak.github.io/Blogs/#/project/reflectify/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/reflectify/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <h2>Reflectify</h2>
           </a>
           <p>
@@ -28,22 +36,38 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <a href="https://yoginak.github.io/Blogs/#/project/recipespark/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/recipespark/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={mock02} className="zoom" alt="thumbnail" width="100%" />
           </a>
-          <a href="https://yoginak.github.io/Blogs/#/project/recipespark/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/recipespark/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <h2>Recipe Spark</h2>
-        </a>
+          </a>
           <p>
-            A reponsive recipe website developed by using React, CSS, Javascript and Meal
-            DB API.
+            A reponsive recipe website developed by using React, CSS, Javascript
+            and Meal DB API.
           </p>
         </div>
         <div className="project">
-          <a href="https://yoginak.github.io/Blogs/#/project/brainflix/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/brainflix/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={mock03} className="zoom" alt="thumbnail" width="100%" />
           </a>
-          <a href="https://yoginak.github.io/Blogs/#/project/brainflix/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/brainflix/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <h2>BrainFlix</h2>
           </a>
           <p>
@@ -54,12 +78,20 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <a href="https://yoginak.github.io/Blogs/#/project/instock/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/instock/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={mock04} className="zoom" alt="thumbnail" width="100%" />
           </a>
-          <a href="https://yoginak.github.io/Blogs/#/project/instock/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/instock/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <h2>Instock</h2>
-         </a>
+          </a>
           <p>
             InStock is a fully responsive inventory management application that
             allows users to keep track of inventories spread across multiple
@@ -93,21 +125,39 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <a href="https://github.com/yoginak/Blogs/" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/yoginak/Blogs/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={mock07} className="zoom" alt="thumbnail" width="100%" />
           </a>
-          <a href="https://github.com/yoginak/Blogs/" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/yoginak/Blogs/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <h2>Blogs Application</h2>
           </a>
           <p>
-          It is a responsive Single Page Application developed using React, designed to display my various projects and demos. Built as a personal initiative, it aims to highlight my journey as a developer.
+            It is a responsive Single Page Application developed using React,
+            designed to display my various projects and demos. Built as a
+            personal initiative, it aims to highlight my journey as a developer.
           </p>
         </div>
         <div className="project">
-          <a href="https://yoginak.github.io/Blogs/#/project/coffeeshop/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/coffeeshop/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={mock06} className="zoom" alt="thumbnail" width="100%" />
           </a>
-          <a href="https://yoginak.github.io/Blogs/#/project/coffeeshop/" target="_blank" rel="noreferrer">
+          <a
+            href="https://yoginak.github.io/Blogs/#/project/coffeeshop/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <h2>Coffee Shop</h2>
           </a>
           <p>
