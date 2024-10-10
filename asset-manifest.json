@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.01414795.css",
-    "main.js": "/static/js/main.bb7b27a8.js",
+    "main.js": "/static/js/main.e5a58723.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/Yogina-Khandelwal.png": "/static/media/Yogina-Khandelwal.c5633a3e3b43af74ef33.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/BrainFlix.png": "/static/media/BrainFlix.37d5c9fe479a5cec8eeb.png",
+    "static/media/Recipe-project.png": "/static/media/Recipe-project.e2926f71619161352d34.png",
     "static/media/Bandsite.png": "/static/media/Bandsite.4dc15d35ac108a239f14.png",
-    "static/media/Recipe Spark.png": "/static/media/Recipe Spark.026dada6564d0f4347f3.png",
     "static/media/Reflectify.png": "/static/media/Reflectify.736aa6b0b4d0c81ce5d9.png",
     "static/media/Blog-Application.png": "/static/media/Blog-Application.26d231154872503db46e.png",
     "static/media/coffeeshop.png": "/static/media/coffeeshop.c89544693b85ad8aa8d7.png",
     "static/media/Instock.png": "/static/media/Instock.6561cac2a680516ba37c.png",
     "index.html": "/index.html",
     "main.01414795.css.map": "/static/css/main.01414795.css.map",
-    "main.bb7b27a8.js.map": "/static/js/main.bb7b27a8.js.map",
+    "main.e5a58723.js.map": "/static/js/main.e5a58723.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01414795.css",
-    "static/js/main.bb7b27a8.js"
+    "static/js/main.e5a58723.js"
   ]
 }
