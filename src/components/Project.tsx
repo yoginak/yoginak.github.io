@@ -29,7 +29,7 @@ function Project() {
             <h2>Reflectify</h2>
           </a>
           <p>
-            Developed mental wellness toolkit by integrating features like data
+            Developed a mental wellness toolkit by integrating features like data
             visualization, personalized AI powered insights and self reflection
             tools using React, Bootstrap, Chart JS, Node JS, Express, MySQL and
             OpenAI API.
@@ -51,8 +51,7 @@ function Project() {
             <h2>Recipe Spark</h2>
           </a>
           <p>
-            A reponsive recipe website developed by using React, CSS, Javascript
-            and Meal DB API.
+          Recipe Spark is a single page React app that helps users discover new recipes based on selected categories. It provides an easy-to-navigate interface to browse recipes and view detailed cooking instructions. The app was built during a hackathon using MealDB API, emphasizing quick access to diverse culinary options.
           </p>
         </div>
         <div className="project">
@@ -71,7 +70,7 @@ function Project() {
             <h2>BrainFlix</h2>
           </a>
           <p>
-            BrainFlix is a fully responsive YouTube clone; showcasing
+            BrainFlix is a fully responsive video library like Youtube showcasing
             dynamically filtered Next Video suggestions, page routing done with
             react-router and the ability to upload a mock-video to a self-built
             Node.js backend which served as the REST API for the application.
