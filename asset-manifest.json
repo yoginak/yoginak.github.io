@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.63655cb5.css",
-    "main.js": "/static/js/main.e5a58723.js",
+    "main.js": "/static/js/main.4b8e06c6.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/Yogina-Khandelwal.png": "/static/media/Yogina-Khandelwal.c5633a3e3b43af74ef33.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
@@ -15,11 +15,11 @@
     "static/media/Instock.png": "/static/media/Instock.6561cac2a680516ba37c.png",
     "index.html": "/index.html",
     "main.63655cb5.css.map": "/static/css/main.63655cb5.css.map",
-    "main.e5a58723.js.map": "/static/js/main.e5a58723.js.map",
+    "main.4b8e06c6.js.map": "/static/js/main.4b8e06c6.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63655cb5.css",
-    "static/js/main.e5a58723.js"
+    "static/js/main.4b8e06c6.js"
   ]
 }
